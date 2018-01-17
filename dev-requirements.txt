@@ -7,7 +7,6 @@
 astroid==1.5.3            # via pylint
 backports.functools-lru-cache==1.4  # via astroid, pylint
 backports.shutil-get-terminal-size==1.0.0  # via ipython
-click==6.7                # via pip-tools
 configparser==3.5.0       # via flake8, pydocstyle, pylint
 decorator==4.1.2          # via ipython, traitlets
 enum34==1.1.6             # via astroid, flake8, traitlets
